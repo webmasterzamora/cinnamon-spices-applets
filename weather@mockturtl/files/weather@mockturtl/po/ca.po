@@ -24,11 +24,11 @@ msgstr "..."
 
 #: applet.js:250
 msgid "Click to open"
-msgstr ""
+msgstr "Feu clic per obrir"
 
 #: applet.js:289
 msgid "Settings"
-msgstr ""
+msgstr "Ajustaments"
 
 #: applet.js:555
 msgid "Sunrise"
@@ -272,35 +272,35 @@ msgstr "Diumenge"
 
 #: applet.js:1056
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: applet.js:1056
 msgid "NE"
-msgstr ""
+msgstr "NE"
 
 #: applet.js:1056
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #: applet.js:1056
 msgid "SE"
-msgstr ""
+msgstr "SE"
 
 #: applet.js:1056
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: applet.js:1056
 msgid "SW"
-msgstr ""
+msgstr "SO"
 
 #: applet.js:1056
 msgid "W"
-msgstr ""
+msgstr "O"
 
 #: applet.js:1056
 msgid "NW"
-msgstr ""
+msgstr "NO"
 
 #. cinnamon-weather->settings-schema.json->woeidLookup->description
 msgid "Get WOEID"
@@ -308,11 +308,11 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->verticalOrientation->description
 msgid "Vertical orientation"
-msgstr ""
+msgstr "Orientació vertical"
 
 #. cinnamon-weather->settings-schema.json->showTextInPanel->description
 msgid "Display current temperature in panel"
-msgstr ""
+msgstr "Mostra la temperatura actual al panell"
 
 #. cinnamon-weather->settings-schema.json->woeid->description
 msgid "WOEID"
@@ -329,11 +329,11 @@ msgstr "Temperatura:"
 
 #. cinnamon-weather->settings-schema.json->temperatureUnit->options
 msgid "fahrenheit"
-msgstr ""
+msgstr "fahrenheit"
 
 #. cinnamon-weather->settings-schema.json->temperatureUnit->options
 msgid "celsius"
-msgstr ""
+msgstr "celsius"
 
 #. cinnamon-weather->settings-schema.json->translateCondition->description
 msgid "Translate condition"
@@ -345,7 +345,7 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->show24Hours->description
 msgid "Display time in 24 hour format"
-msgstr ""
+msgstr "Mostra l'hora en format de 24 hores"
 
 #. cinnamon-weather->settings-schema.json->forecastDays->description
 msgid "Forecast length"
@@ -361,7 +361,7 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->description
 msgid "Wind speed unit"
-msgstr ""
+msgstr "Unitat de velocitat del vent"
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "kph"
@@ -369,11 +369,11 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "knots"
-msgstr ""
+msgstr "nusos"
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "mph"
@@ -385,7 +385,7 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->pressureUnit->description
 msgid "Atmospheric pressure unit"
-msgstr ""
+msgstr "Unitat de pressió atmosfèrica"
 
 #. cinnamon-weather->settings-schema.json->pressureUnit->options
 msgid "psi"
@@ -425,7 +425,7 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->refreshInterval->units
 msgid "minutes"
-msgstr ""
+msgstr "minuts"
 
 #. cinnamon-weather->settings-schema.json->useSymbolicIcons->description
 msgid "Symbolic icons"
@@ -433,7 +433,7 @@ msgstr ""
 
 #. cinnamon-weather->metadata.json->description
 msgid "View your local weather forecast"
-msgstr ""
+msgstr "Consulteu la vostra previsió meteorològica local"
 
 #. cinnamon-weather->metadata.json->name
 msgid "Weather"
