@@ -1,0 +1,415 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-24 12:26+0100\n"
+"PO-Revision-Date: 2024-01-06 22:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: 4.0/DataProviders.js:47 3.4/DataProviders.js:49
+msgid "/s"
+msgstr "/s"
+
+#: 4.0/DataProviders.js:55 4.0/prefs.js:303 3.0/DataProviders.js:107
+#: 3.0/prefs.js:183 3.4/DataProviders.js:58 3.4/prefs.js:195
+#: 3.2/DataProviders.js:107 3.2/prefs.js:187
+msgid "CPU"
+msgstr "CPU"
+
+#: 4.0/DataProviders.js:123 3.0/DataProviders.js:113 3.4/DataProviders.js:126
+#: 3.2/DataProviders.js:113
+msgid "------------- CPU ------------"
+msgstr "------------- CPU ------------"
+
+#: 4.0/DataProviders.js:126 3.0/DataProviders.js:117 3.4/DataProviders.js:129
+#: 3.2/DataProviders.js:117
+msgid "Core"
+msgstr "Mag"
+
+#: 4.0/DataProviders.js:138 3.0/DataProviders.js:157 3.4/DataProviders.js:141
+#: 3.2/DataProviders.js:157
+msgid "MEM"
+msgstr "MEM"
+
+#: 4.0/DataProviders.js:158 3.0/DataProviders.js:163 3.4/DataProviders.js:161
+#: 3.2/DataProviders.js:163
+msgid "----------- Memory -----------"
+msgstr "----------- Memória -----------"
+
+#: 4.0/DataProviders.js:159 3.4/DataProviders.js:162
+msgid "Used:"
+msgstr "Használt:"
+
+#: 4.0/DataProviders.js:159 3.0/DataProviders.js:165 3.4/DataProviders.js:162
+#: 3.2/DataProviders.js:165
+msgid "Cached:"
+msgstr "Gyorsítótárazott:"
+
+#: 4.0/DataProviders.js:159 3.0/DataProviders.js:166 3.4/DataProviders.js:162
+#: 3.2/DataProviders.js:166
+msgid "Buffer:"
+msgstr "Puffer:"
+
+#: 4.0/DataProviders.js:159 3.0/DataProviders.js:167 3.4/DataProviders.js:162
+#: 3.2/DataProviders.js:167
+msgid "Free:"
+msgstr "Szabad:"
+
+#: 4.0/DataProviders.js:173 3.0/DataProviders.js:194 3.4/DataProviders.js:176
+#: 3.2/DataProviders.js:194
+msgid "SWAP"
+msgstr "Cserehely"
+
+#: 4.0/DataProviders.js:193 3.0/DataProviders.js:199 3.4/DataProviders.js:194
+#: 3.2/DataProviders.js:199
+msgid "------------ Swap ------------"
+msgstr "------------ Cserehely ------------"
+
+#: 4.0/DataProviders.js:194 3.0/DataProviders.js:200 3.4/DataProviders.js:195
+#: 3.2/DataProviders.js:200
+msgid "Swap"
+msgstr "Cserehely"
+
+#: 4.0/DataProviders.js:204 3.0/DataProviders.js:264 3.4/DataProviders.js:205
+#: 3.2/DataProviders.js:264
+msgid "NET"
+msgstr "NET"
+
+#: 4.0/DataProviders.js:287 3.0/DataProviders.js:305 3.4/DataProviders.js:289
+#: 3.2/DataProviders.js:305
+msgid "---------- Networks ----------"
+msgstr "---------- Hálózatok ----------"
+
+#: 4.0/DataProviders.js:298 3.0/DataProviders.js:308 3.4/DataProviders.js:300
+#: 3.2/DataProviders.js:308
+msgid "Down:"
+msgstr "Le:"
+
+#: 4.0/DataProviders.js:299 3.0/DataProviders.js:309 3.4/DataProviders.js:301
+#: 3.2/DataProviders.js:309
+msgid "Up:"
+msgstr "Fel:"
+
+#: 4.0/DataProviders.js:315 3.0/DataProviders.js:382 3.4/DataProviders.js:317
+#: 3.2/DataProviders.js:382
+msgid "DISK"
+msgstr "LEMEZ"
+
+#: 4.0/DataProviders.js:376 3.0/DataProviders.js:408 3.4/DataProviders.js:378
+#: 3.2/DataProviders.js:408
+msgid "------------ Disks -----------"
+msgstr "------------ Lemezek -----------"
+
+#: 4.0/DataProviders.js:384 3.0/DataProviders.js:411 3.4/DataProviders.js:386
+#: 3.2/DataProviders.js:411
+msgid "Read:"
+msgstr "Olvasás:"
+
+#: 4.0/DataProviders.js:385 3.0/DataProviders.js:412 3.4/DataProviders.js:387
+#: 3.2/DataProviders.js:412
+msgid "Write:"
+msgstr "Írás:"
+
+#: 4.0/applet.js:64 3.4/applet.js:60
+msgid "Dependency missing"
+msgstr "Függőség hiányzik"
+
+#: 4.0/applet.js:66
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+"\topenSUSE: libgtop-devel\n"
+"to use "
+msgstr ""
+"Telepítse a GTop csomagot:\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+"\topenSUSE: libgtop-devel\n"
+"a használathoz "
+
+#: 4.0/applet.js:275 3.0/applet.js:141 3.4/applet.js:264 3.2/applet.js:139
+msgid "Preferences"
+msgstr "Beállítások"
+
+#: 4.0/applet.js:277
+msgid "Refresh graphs"
+msgstr "Grafikonok frissítése"
+
+#: 4.0/prefs.js:335
+msgid "00-20"
+msgstr "00-20"
+
+#: 4.0/prefs.js:335
+msgid "20-40"
+msgstr "20-40"
+
+#: 4.0/prefs.js:335
+msgid "40-60"
+msgstr "40-60"
+
+#: 4.0/prefs.js:335
+msgid "60-80"
+msgstr "60-80"
+
+#: 4.0/prefs.js:335
+msgid "80-100"
+msgstr "80-100"
+
+#: 4.0/prefs.js:483 4.0/prefs.js:619 3.0/prefs.js:279 3.0/prefs.js:393
+#: 3.4/prefs.js:327 3.4/prefs.js:463 3.2/prefs.js:283 3.2/prefs.js:398
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#: 4.0/prefs.js:494 3.0/prefs.js:290 3.4/prefs.js:338 3.2/prefs.js:294
+msgid "Down"
+msgstr "Le"
+
+#: 4.0/prefs.js:502 3.0/prefs.js:298 3.4/prefs.js:346 3.2/prefs.js:302
+msgid "Up"
+msgstr "Fel"
+
+#: 4.0/prefs.js:635 3.0/prefs.js:406 3.4/prefs.js:479 3.2/prefs.js:414
+msgid "Read"
+msgstr "Olvasás"
+
+#: 4.0/prefs.js:644 3.0/prefs.js:414 3.4/prefs.js:488 3.2/prefs.js:423
+msgid "Write"
+msgstr "Írás"
+
+#: 3.0/DataProviders.js:164 3.2/DataProviders.js:164
+msgid "Usedup:"
+msgstr "Felhasznált:"
+
+#: 3.0/DataProviders.js:308 3.0/DataProviders.js:309 3.2/DataProviders.js:308
+#: 3.2/DataProviders.js:309
+msgid "(KiB/s)"
+msgstr "(KiB/s)"
+
+#: 3.0/DataProviders.js:411 3.0/DataProviders.js:412 3.2/DataProviders.js:411
+#: 3.2/DataProviders.js:412
+msgid "(MiB/s)"
+msgstr "(MiB/s)"
+
+#: 3.0/ErrorApplet.js:28 3.0/ErrorApplet.js:34 3.2/ErrorApplet.js:28
+#: 3.2/ErrorApplet.js:34
+msgid "Multi-Core System Monitor Error."
+msgstr "Többmagos rendszerfigyelő hiba."
+
+#: 3.0/applet.js:323 3.2/applet.js:334
+msgid "Please install \"gir1.2-gtop-2.0\" package."
+msgstr "Kérjük, telepítse a \"gir1.2-gtop-2.0\" csomagot."
+
+#: 3.0/applet.js:328 3.2/applet.js:339
+msgid "Reload this applet"
+msgstr "Kisalkalmazás újratöltése"
+
+#: 3.0/prefs.js:530 3.2/prefs.js:540
+msgid "Error while saving file:"
+msgstr "Hiba a fájl mentése közben:"
+
+#: 3.4/applet.js:62
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+"to use "
+msgstr ""
+"Kérem telepítse a GTop csomagot\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+"a használathoz "
+
+#. metadata.json->name
+msgid "Multi-Core System Monitor"
+msgstr "Többmagos Rendszerfigyelő"
+
+#. metadata.json->description
+msgid ""
+"Displays in realtime the cpu usage for each core/cpu and overall memory "
+"usage."
+msgstr ""
+"Valós időben jeleníti meg az egyes magok/cpu-k processzorhasználatát és a "
+"teljes memóriahasználatot."
+
+#~ msgid "Multi-Core System Monitor Preferences"
+#~ msgstr "Többmagos rendszerfigyelő beállításai"
+
+#~ msgid "Labels"
+#~ msgstr "Címkék"
+
+#~ msgid "Refresh Rate (ms)"
+#~ msgstr "Frissítési gyakoriság (ms)"
+
+#~ msgid "Height"
+#~ msgstr "Magasság"
+
+#~ msgid "Background Color"
+#~ msgstr "Háttérszín"
+
+#~ msgid "General"
+#~ msgstr "Általános"
+
+#~ msgid "Width"
+#~ msgstr "Szélesség"
+
+#~ msgid "Colors"
+#~ msgstr "Színek"
+
+#~ msgid "Usedup"
+#~ msgstr "Felhasznált"
+
+#~ msgid "Cached"
+#~ msgstr "Gyorsítótárazott"
+
+#~ msgid "Buffer"
+#~ msgstr "Puffer"
+
+#~ msgid "Free"
+#~ msgstr "Szabad"
+
+#~ msgid "Memory"
+#~ msgstr "Memória"
+
+#~ msgid "Scaling"
+#~ msgstr "Méretezés"
+
+#~ msgid "Auto Scale"
+#~ msgstr "Automatikus méretezés"
+
+#~ msgid "Logarithmic"
+#~ msgstr "Logaritmikus"
+
+#~ msgid "Devices"
+#~ msgstr "Eszközök"
+
+#~ msgid "Network"
+#~ msgstr "Hálózat"
+
+#~ msgid "Disk IO"
+#~ msgstr "Lemez IO"
+
+#~ msgid "Scaling Description"
+#~ msgstr "Méretezés leírása"
+
+#~ msgid "Close"
+#~ msgstr "Bezárás"
+
+#~ msgid ""
+#~ "Auto Scaling:\n"
+#~ "\tThis will scale the line graph by the largest reading within the\n"
+#~ "\tdisplayed area. Once the largest reading is no longer displayed\n"
+#~ "\tthe next largest becomes the new value by which the readings\n"
+#~ "\tare scaled. This lets the plot \"zoom\" to show details of the graph.\n"
+#~ "\tHowever, it also means that if there is a large reading small readings\n"
+#~ "\tmay become indistinguishable from 0. And if there are only small "
+#~ "readings\n"
+#~ "\tthen slightly larger readings may appear larger than they should.\n"
+#~ "\tIf not enabled the largest value used will be the largest reading "
+#~ "since\n"
+#~ "\tcinnamon was started.\n"
+#~ "\n"
+#~ "Logarithmic Scaling:\n"
+#~ "\tThis transforms the readings so that they are displayed using a\n"
+#~ "\tlogarithmic scale. If you are not familiar basically, it reduces the\n"
+#~ "\tlarge values so that they dont dominate the smaller readings."
+#~ msgstr ""
+#~ "Automatikus méretezés:\n"
+#~ "\tEz a vonaldiagramot a legnagyobb értékkel méretezi\n"
+#~ "\ta megjelenített területen belül. Miután a legnagyobb érték már nem "
+#~ "jelenik meg\n"
+#~ "\ta következő legnagyobb lesz az az új érték, amellyel a diagram\n"
+#~ "\tméreteződik. Ez lehetővé teszi a diagram \"nagyítását\" a grafikon "
+#~ "részleteinek megjelenítéséhez.\n"
+#~ "\tEz azonban azt is jelenti, hogy ha van egy nagy érték, akkor a kicsi "
+#~ "értékek\n"
+#~ "\ta 0-tól megkülönböztethetetlenné válhatnak. Továbbá, ha csak kis "
+#~ "értékek vannak\n"
+#~ "\takkor a valamivel nagyobb értékek nagyobbnak tűnhetnek a kelleténél.\n"
+#~ "\tHa nincs engedélyezve, akkor a Cinnamon indítása óta mért legnagyobb "
+#~ "érték\n"
+#~ "\tlesz a meghatározó.\n"
+#~ "\n"
+#~ "Logaritmikus méretezés:\n"
+#~ "\tEz átalakítja az értékeket úgy, hogy azok logaritmikus skála "
+#~ "segítségével \n"
+#~ "\tjelenjenek meg. Ha nem ismerné, ez csökkenti a nagy értékeket, \n"
+#~ "\tígy azok nem nyomják el a kisebb értékeket."
+
+#~ msgid "Label Color"
+#~ msgstr "Címke színe"
+
+#~ msgid "Curves thickness"
+#~ msgstr "Görbevastagság"
+
+#~ msgid "Color by activity level"
+#~ msgstr "Aktivitás szerinti szín"
+
+#~ msgid "Use automatic colors"
+#~ msgstr "Automatikus színek használata"
+
+#~ msgid "by CPU:"
+#~ msgstr "CPU:"
+
+#~ msgid "by activity level (in %):"
+#~ msgstr "aktivitás szerinti szín (százalékban megadva)"
+
+#~ msgid ""
+#~ "Auto Scaling:\n"
+#~ "    This will scale the line graph by the largest reading within the\n"
+#~ "    displayed area. Once the largest reading is no longer displayed\n"
+#~ "    the next largest becomes the new value by which the readings\n"
+#~ "    are scaled. This lets the plot \"zoom\" to show details of the "
+#~ "graph.\n"
+#~ "    However, it also means that if there is a large reading small "
+#~ "readings\n"
+#~ "    may become indistinguishable from 0. And if there are only small "
+#~ "readings\n"
+#~ "    then slightly larger readings may appear larger than they should.\n"
+#~ "    If not enabled the largest value used will be the largest reading "
+#~ "since\n"
+#~ "    cinnamon was started.\n"
+#~ "\n"
+#~ "Logarithmic Scaling:\n"
+#~ "    This transforms the readings so that they are displayed using a\n"
+#~ "    logarithmic scale. If you are not familiar basically, it reduces the\n"
+#~ "    large values so that they dont dominate the smaller readings."
+#~ msgstr ""
+#~ "Automatikus méretezés:\n"
+#~ "\tEz a vonaldiagramot a legnagyobb értékkel méretezi\n"
+#~ "\ta megjelenített területen belül. Miután a legnagyobb érték már nem "
+#~ "jelenik meg\n"
+#~ "\ta következő legnagyobb lesz az az új érték, amellyel a diagram\n"
+#~ "\tméreteződik. Ez lehetővé teszi a diagram \"nagyítását\" a grafikon "
+#~ "részleteinek megjelenítéséhez.\n"
+#~ "\tEz azonban azt is jelenti, hogy ha van egy nagy érték, akkor a kicsi "
+#~ "értékek\n"
+#~ "\ta 0-tól megkülönböztethetetlenné válhatnak. Továbbá, ha csak kis "
+#~ "értékek vannak\n"
+#~ "\takkor a valamivel nagyobb értékek nagyobbnak tűnhetnek a kelleténél.\n"
+#~ "\tHa nincs engedélyezve, akkor a Cinnamon indítása óta mért legnagyobb "
+#~ "érték\n"
+#~ "\tlesz a meghatározó.\n"
+#~ "\n"
+#~ "Logaritmikus méretezés:\n"
+#~ "\tEz átalakítja az értékeket úgy, hogy azok logaritmikus skála "
+#~ "segítségével \n"
+#~ "\tjelenjenek meg. Ha nem ismerné, ez csökkenti a nagy értékeket, \n"
+#~ "\tígy azok nem nyomják el a kisebb értékeket."
